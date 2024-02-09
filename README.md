@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+## Introduction
 
 **Younguz/Younguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ❤️❤️❤️❤️❤️❤️❤️
+
+## Projects
+-  Stream Bullet screen interactive game.
+
+## Demos
+
+A funny GIF
+
+![](https://media1.tenor.com/m/D6CbF3DBPtgAAAAd/chilling-funny.gif)
