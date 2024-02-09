@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 A funny GIF
 
-![](https://media1.tenor.com/m/D6CbF3DBPtgAAAAd/chilling-funny.gif)
+![gif](https://media1.tenor.com/m/D6CbF3DBPtgAAAAd/chilling-funny.gif)
